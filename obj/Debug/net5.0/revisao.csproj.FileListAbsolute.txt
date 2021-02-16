@@ -1,0 +1,15 @@
+/Users/vitorvieira/Documents/workspace/intro/revisao/obj/Debug/net5.0/revisao.csprojAssemblyReference.cache
+/Users/vitorvieira/Documents/workspace/intro/revisao/obj/Debug/net5.0/revisao.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vitorvieira/Documents/workspace/intro/revisao/obj/Debug/net5.0/revisao.AssemblyInfoInputs.cache
+/Users/vitorvieira/Documents/workspace/intro/revisao/obj/Debug/net5.0/revisao.AssemblyInfo.cs
+/Users/vitorvieira/Documents/workspace/intro/revisao/obj/Debug/net5.0/revisao.csproj.CoreCompileInputs.cache
+/Users/vitorvieira/Documents/workspace/intro/revisao/bin/Debug/net5.0/revisao.deps.json
+/Users/vitorvieira/Documents/workspace/intro/revisao/bin/Debug/net5.0/revisao.runtimeconfig.json
+/Users/vitorvieira/Documents/workspace/intro/revisao/bin/Debug/net5.0/revisao.runtimeconfig.dev.json
+/Users/vitorvieira/Documents/workspace/intro/revisao/bin/Debug/net5.0/revisao.dll
+/Users/vitorvieira/Documents/workspace/intro/revisao/bin/Debug/net5.0/ref/revisao.dll
+/Users/vitorvieira/Documents/workspace/intro/revisao/bin/Debug/net5.0/revisao.pdb
+/Users/vitorvieira/Documents/workspace/intro/revisao/obj/Debug/net5.0/revisao.dll
+/Users/vitorvieira/Documents/workspace/intro/revisao/obj/Debug/net5.0/ref/revisao.dll
+/Users/vitorvieira/Documents/workspace/intro/revisao/obj/Debug/net5.0/revisao.pdb
+/Users/vitorvieira/Documents/workspace/intro/revisao/obj/Debug/net5.0/revisao.genruntimeconfig.cache
